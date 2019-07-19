@@ -8,8 +8,7 @@
 | Item3    |Item 3: Use const whenever possible       |    done       |
 | Item4    | Item 4: Make sure that objects are initialized before they're used       |    done       |
 | Item5    | Item 5: Know what functions C++ silently writes and calls       |    done       |
-| Item6    | Explicitly disallow the use of compiler-generated functions you
-do not want      |    done       |
+| Item6    | Explicitly disallow the use of compiler-generated functions you do not want      |    done       |
 | Item7    | Declare destructors virtual in polymorphic base classes      |    done       |
 | Item8    | Prevent exceptions from leaving destructors      |    done       |
 | Item9    | Never call virtual functions during construction or destruction       |    done       |
@@ -17,8 +16,7 @@ do not want      |    done       |
 | Item11   | Handle assignment to self in operator=     |    done       |
 | Item12   | Copy all parts of an object       |    done       |
 | Item13   | Use objects to manage resources.      |    done       |
-| Item14   | Think carefully about copying behavior in resource-managing
-classes.       |    done       |
+| Item14   | Think carefully about copying behavior in resource-managing classes.       |    done       |
 | Item15   |Provide access to raw resources in resource-managing classes.      |    done       |
 | Item16   | Use the same form in corresponding uses of new and delete.      |    done       |
 | Item17   | Store newed objects in smart pointers in standalone statements.       |    done       |
