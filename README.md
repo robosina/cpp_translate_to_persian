@@ -1,6 +1,10 @@
 # cpp_translate_to_persian
 
 
+| Item | Description | situation |
+| :---:         |     :---:      |          :---: |
+| Item1  | View C++ as a federation of languages         | not done     |
+| Item2    | Prefer consts, enums, and inlines to #defines       |    done       |
 
 | Date  | Finished |
 | ------------- | ------------- |
