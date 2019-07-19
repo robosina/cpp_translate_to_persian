@@ -3,10 +3,10 @@
 
 | Item | Description | situation |
 | :---:         |     :---     |          :---: |
-| Item1  | View C++ as a federation of languages         | not done     |
+| Item1  | View C++ as a federation of languages         | **not done**     |
 | Item2    | Prefer consts, enums, and inlines to #defines       |    done       |
 | Item3    |Use const whenever possible       |    done       |
-| Item4    |Make sure that objects are initialized before they're used       |    done       |
+| Item4    |Make sure that objects are initialized before they're used       |    **not done**       |
 | Item5    | Know what functions C++ silently writes and calls       |    done       |
 | Item6    | Explicitly disallow the use of compiler-generated functions you do not want      |    done       |
 | Item7    | Declare destructors virtual in polymorphic base classes      |    done       |
@@ -14,7 +14,7 @@
 | Item9    | Never call virtual functions during construction or destruction       |    done       |
 | Item10    |Have assignment operators return a reference to *this       |    done       |
 | Item11   | Handle assignment to self in operator=     |    done       |
-| Item12   | Copy all parts of an object       |    done       |
+| Item12   | Copy all parts of an object       |    **not done**       |
 | Item13   | Use objects to manage resources.      |    done       |
 | Item14   | Think carefully about copying behavior in resource-managing classes.       |    done       |
 | Item15   |Provide access to raw resources in resource-managing classes.      |    done       |
@@ -26,14 +26,14 @@
 | Item21   | Don't try to return a reference when you must return an object       |    done       |
 | Item22   | Declare data members private       |    done       |
 | Item23   | Prefer non-member non-friend functions to member functions      |    done       |
-| Item24   | Declare non-member functions when type conversions should apply to all parameters       |    done       |
+| Item24   | Declare non-member functions when type conversions should apply to all parameters       |    **not done**       |
 | Item25   | Consider support for a non-throwing swap      |    done       |
 | Item26   | Postpone variable definitions as long as possible.       |    done       |
-| Item27   | Minimize casting.       |    done       |
-| Item28   | Avoid returning “handles” to object internals.       |    done       |
-| Item29   | Strive for exception-safe code.      |    done       |
-| Item30   | Understand the ins and outs of inlining.      |    done       |
-| Item31   | Minimize compilation dependencies between files      |    done       |
+| Item27   | Minimize casting.       |    **not done**       |
+| Item28   | Avoid returning “handles” to object internals.       |    **not done**       |
+| Item29   | Strive for exception-safe code.      |    **not done**       |
+| Item30   | Understand the ins and outs of inlining.      |    **not done**       |
+| Item31   | Minimize compilation dependencies between files      |    **not done**       |
 | Item32   | Make sure public inheritance models “is-a.”      |    done       |
 | Item33   | Avoid hiding inherited names      |    done       |
 | Item34   | Differentiate between inheritance of interface and inheritance of implementation      |    done       |
