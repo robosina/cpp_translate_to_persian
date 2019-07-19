@@ -26,6 +26,33 @@
 | Item21   | Don't try to return a reference when you must return an object       |    done       |
 | Item22   | Declare data members private       |    done       |
 | Item23   | Prefer non-member non-friend functions to member functions      |    done       |
+| Item24   | Declare non-member functions when type conversions should apply to all parameters       |    done       |
+| Item25   | Consider support for a non-throwing swap      |    done       |
+| Item26   | Postpone variable definitions as long as possible.       |    done       |
+| Item27   | Minimize casting.       |    done       |
+| Item28   | Avoid returning “handles” to object internals.       |    done       |
+| Item29   | Strive for exception-safe code.      |    done       |
+| Item30   | Understand the ins and outs of inlining.      |    done       |
+| Item31   | Minimize compilation dependencies between files      |    done       |
+| Item32   | Make sure public inheritance models “is-a.”      |    done       |
+| Item33   | Avoid hiding inherited names      |    done       |
+| Item34   | Differentiate between inheritance of interface and inheritance of implementation      |    done       |
+| Item35   | Consider alternatives to virtual functions       |    done       |
+| Item36   | Never redefine an inherited non-virtual function      |    done       |
+| Item37   | Never redefine a function's inherited default parameter value      |    done       |
+| Item38   | Model “has-a” or “is-implemented-in-terms-of” through composition      |    done       |
+| Item39   | Use private inheritance judiciously       |    done       |
+| Item40   | Use multiple inheritance judiciously       |    done       |
+| Item41   | Understand implicit interfaces and compile-time polymorphism       |    done       |
+| Item42   | Understand the two meanings of typename      |    done       |
+| Item43   | Know how to access names in templatized base classes      |    done       |
+| Item44   | Factor parameter-independent code out of templates     |    done       |
+| Item45   | Use member function templates to accept “all compatible types.”       |    done       |
+| Item46   | Define non-member functions inside templates when type conversions are desired       |    done       |
+| Item47   | Use traits classes for information about types     |    done       |
+| Item48   | Be aware of template metaprogramming      |    done       |
+| Item49   | Understand the behavior of the new-handler      |    done       |
+| Item50   | Understand when it makes sense to replace new and delete       |    done       |
 
 | Date  | Finished |
 | ------------- | ------------- |
