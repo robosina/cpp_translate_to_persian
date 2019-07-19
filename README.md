@@ -2,12 +2,12 @@
 
 
 | Item | Description | situation |
-| :---:         |     :---:      |          :---: |
+| :---:         |     :---     |          :---: |
 | Item1  | View C++ as a federation of languages         | not done     |
 | Item2    | Prefer consts, enums, and inlines to #defines       |    done       |
-| Item3    |Item 3: Use const whenever possible       |    done       |
-| Item4    | Item 4: Make sure that objects are initialized before they're used       |    done       |
-| Item5    | Item 5: Know what functions C++ silently writes and calls       |    done       |
+| Item3    |Use const whenever possible       |    done       |
+| Item4    |Make sure that objects are initialized before they're used       |    done       |
+| Item5    | Know what functions C++ silently writes and calls       |    done       |
 | Item6    | Explicitly disallow the use of compiler-generated functions you do not want      |    done       |
 | Item7    | Declare destructors virtual in polymorphic base classes      |    done       |
 | Item8    | Prevent exceptions from leaving destructors      |    done       |
