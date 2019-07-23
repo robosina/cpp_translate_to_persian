@@ -32,7 +32,7 @@
 | Item27   | Minimize casting.       |    **not done**       |
 | Item28   | Avoid returning “handles” to object internals.       |    **not done**       |
 | Item29   | Strive for exception-safe code.      |    **not done**       |
-| Item30   | Understand the ins and outs of inlining.      |    **not done**       |
+| Item30   | Understand the ins and outs of inlining.      |    done       |
 | Item31   | Minimize compilation dependencies between files      |    **not done**       |
 | Item32   | Make sure public inheritance models “is-a.”      |    done       |
 | Item33   | Avoid hiding inherited names      |    done       |
